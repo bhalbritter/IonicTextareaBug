@@ -1,0 +1,7 @@
+{
+  "name": "IonicTextareaBug",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
